@@ -11,3 +11,15 @@
     "telegram": "https://t.me/+_jEBrMVTovU5ZDFl"
   }
 }
+{
+  "chainId": 101,
+  "address": "ASRFq8mRrcF7CtF3QiP4CpL7ajufvtUnTyh9xgbTuyGp",
+  "symbol": "AAC",
+  "name": "Agenic AI Coin",
+  "decimals": 6,
+  "logoURI": "https://imgur.com/a/KS0igl3",
+  "tags": ["utility-token"],
+  "extensions": {
+    "discord": "https://discord.gg/tAvRyucF",
+  }
+}
